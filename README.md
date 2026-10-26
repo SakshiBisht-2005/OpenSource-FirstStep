@@ -80,11 +80,9 @@ Python will be useful when we build our automated testing examples.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/OpenSource-FirstStep.git
+git clone https://github.com/SakshiBisht-2005/OpenSource-FirstStep.git
 cd OpenSource-FirstStep
 ```
-
-Replace `YOUR-USERNAME` with the GitHub username that owns this repository.
 
 ### Step 2: Create a feature branch
 
