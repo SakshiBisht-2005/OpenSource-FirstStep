@@ -84,8 +84,6 @@ git clone https://github.com/SakshiBisht-2005/OpenSource-FirstStep.git
 cd OpenSource-FirstStep
 ```
 
-Replace `YOUR-USERNAME` with the GitHub username that owns this repository.
-
 ### Step 2: Create a feature branch
 
 ```bash
@@ -154,9 +152,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Open-Source Contribution Guide](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source)
 
-## ⭐ Support the Project
-
-If this repository helps you learn, consider giving it a star and sharing it with other beginners.
 
 **Learn together. Build together. Contribute together. 🌍**
 
