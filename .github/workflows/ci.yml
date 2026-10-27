@@ -27,4 +27,4 @@ jobs:
 
       - name: Run tests
         working-directory: 04-cicd-github-actions
-        run: python -m unittest -v
+        run: python -m unittest discover -s 04-cicd-github-actions -p "test_*.py" -v
